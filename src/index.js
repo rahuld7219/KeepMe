@@ -1,3 +1,5 @@
+//PART 1
+
 //1. Create a new React app.
 //2. Create a App.jsx component.
 //3. Create a Header.jsx component that renders a <header> element
@@ -10,6 +12,9 @@
 //https://l1pp6.csb.app/
 
 //HINT: You will need to study the classes in the styles.css file to appy styling.
+
+// PART 2
+//7. Challenge. Render all the notes inside notes.js as a seperate Note component.
 
 import React from "react";
 import ReactDOM from "react-dom";

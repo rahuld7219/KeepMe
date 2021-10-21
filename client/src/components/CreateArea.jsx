@@ -48,7 +48,6 @@ function CreateArea(props) {
                         <AddIcon />
                     </Fab>
                 </Zoom>
-                {/* could use arrow function instead of named function and could use onSubmit event on form instead of onClick here*/}
             </form>
         </div>
     );
